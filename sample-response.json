@@ -1,0 +1,26 @@
+{
+  "symbol": "BTCUSDT",
+  "orderId": 8696225,
+  "orderListId": -1,
+  "clientOrderId": "zEZVWZe1xWQ7FH3mZTyoUl",
+  "transactTime": 1687817375451,
+  "price": "0.00000000",
+  "origQty": "0.00100000",
+  "executedQty": "0.00100000",
+  "cummulativeQuoteQty": "30.13169000",
+  "status": "FILLED",
+  "timeInForce": "GTC",
+  "type": "MARKET",
+  "side": "BUY",
+  "workingTime": 1687817375451,
+  "fills": [
+    {
+      "price": "30131.69000000",
+      "qty": "0.00100000",
+      "commission": "0.00000000",
+      "commissionAsset": "BTC",
+      "tradeId": 2443204
+    }
+  ],
+  "selfTradePreventionMode": "NONE"
+}
